@@ -1,0 +1,12 @@
+{
+  "name": "pets_devs",
+  "version": "1.0.0",
+  "description": "A simple API for the pets and the developers.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Joshua Siyame",
+  "license": "ISC"
+}
